@@ -15,3 +15,6 @@
 * Read discussions tab top posts to gain more insights. Also, check general discussion posts that have information about a certain sub topic and bookmark them
 * Write down and keep notes on Github repository. Also document ideas.
 * Tip: use visualization. Drawing a picture helps a lot.
+
+
+https://neetcode.io/roadmap
